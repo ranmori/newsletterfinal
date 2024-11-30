@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ranmori/newsletterfinal.git/static/css/main.eb49259e.css",
+    "main.js": "/ranmori/newsletterfinal.git/static/js/main.0efebf59.js",
+    "static/js/453.06c464ff.chunk.js": "/ranmori/newsletterfinal.git/static/js/453.06c464ff.chunk.js",
+    "index.html": "/ranmori/newsletterfinal.git/index.html",
+    "main.eb49259e.css.map": "/ranmori/newsletterfinal.git/static/css/main.eb49259e.css.map",
+    "main.0efebf59.js.map": "/ranmori/newsletterfinal.git/static/js/main.0efebf59.js.map",
+    "453.06c464ff.chunk.js.map": "/ranmori/newsletterfinal.git/static/js/453.06c464ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb49259e.css",
+    "static/js/main.0efebf59.js"
+  ]
+}
